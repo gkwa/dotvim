@@ -3,6 +3,7 @@ runtime macros/matchit.vim
 execute pathogen#infect()
 
 set visualbell " flash screen instead of sounding a beep
+set nostartofline
 set tabstop=4
 set shiftwidth=4
 set expandtab
