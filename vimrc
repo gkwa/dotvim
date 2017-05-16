@@ -1,4 +1,5 @@
 runtime bundle/vim-pathogen/autoload/pathogen.vim
+runtime macros/matchit.vim
 execute pathogen#infect()
 
 set visualbell " flash screen instead of sounding a beep
