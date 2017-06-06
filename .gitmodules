@@ -19,3 +19,6 @@
 [submodule "bundle/mru.vim"]
 	path = bundle/mru.vim
 	url = https://github.com/vim-scripts/mru.vim
+[submodule "bundle/vim-ariline"]
+	path = bundle/vim-ariline
+	url = https://github.com/vim-airline/vim-airline.git
