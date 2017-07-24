@@ -32,3 +32,4 @@ syntax on
 
 filetype plugin indent on
 
+nmap =j :%!python -m json.tool<CR>
